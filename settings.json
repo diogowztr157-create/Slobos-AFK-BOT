@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "bluefish.aternos.host",
+    "port": 11091,
     "version": "1.21.1"
   },
   "position": {
